@@ -1,1 +1,1 @@
-# Documentary - apuem: Read more about how it works 📑
+# Documentation - apuem: Read more about how it works 📑
